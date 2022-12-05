@@ -1,0 +1,3 @@
+# Flag for exif
+
+flag{S3cr37_1NS1D3_1M493}
