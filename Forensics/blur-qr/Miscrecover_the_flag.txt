@@ -1,0 +1,3 @@
+# Recover QR
+
+Recover the flag by sharpening the QR image.
